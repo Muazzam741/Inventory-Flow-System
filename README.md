@@ -31,7 +31,7 @@ Follow these steps to get the project up and running on your local machine.
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/yourusername/inventory-flow-system.git
+git clone https://github.com/muazzam741/inventory-flow-system.git
 cd inventory-flow-system
 ```
 
