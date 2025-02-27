@@ -1,0 +1,38 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+inventoryproject/
+
+# Flask instance files
+instance/
+.flaskenv
+
+# Pytest cache
+.cache/
+
+# VSCode settings folder
+.vscode/
+
+# Database files
+*.sqlite3
+*.db
+
+# .env files (for environment variables)
+.env
+
+# Log files
+*.log
+
+# Distribution / packaging files
+*.egg-info/
+dist/
+build/
+
+# MacOS system files
+.DS_Store
